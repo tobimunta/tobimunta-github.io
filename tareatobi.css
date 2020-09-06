@@ -1,0 +1,8 @@
+.FONDO-AMARILLO{
+     background-color: yellow; color: black;
+     padding-top: 50px;
+     padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+} 
+body {font-family: 'Roboto', sans-serif;}
